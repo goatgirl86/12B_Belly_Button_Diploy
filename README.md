@@ -1,6 +1,6 @@
 # Belly_Button_Diploy
 
-This repository is associated with my respository named Belly_Button_Beef.  
+This repository is associated with my respository named Belly_Button_Beef (https://github.com/goatgirl86/Belly_Button_Beef.git)
 
 It's sole purposed is to create a diploy website to display data and info created in my Belly_Button_Beef repository.  
 
